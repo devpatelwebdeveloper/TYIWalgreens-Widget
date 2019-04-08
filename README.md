@@ -5,4 +5,3 @@ Track Your Impact + Sponsors widget test
 - Using current TYI Widget
 - Images and copy is not finalized
 - https://codepen.io/devpatelwebdeveloper/pen/rbBERy "Toggle Javascript code"
-- (https://www.google.com "Google's Homepage")
